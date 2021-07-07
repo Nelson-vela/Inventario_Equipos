@@ -1,0 +1,28 @@
+﻿
+/*======================================
+    GENERAL STYLES
+======================================= */
+
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size:15px;
+    background-color: #EAEAEA;
+}
+
+.pad-top {
+    padding-top:30px;
+}
+.pad-bottom {
+     padding-bottom:50px;
+}
+.font-big {
+    font-size:20px;
+}
+.outer-section {
+     border:1px solid #dedede;
+     background-color: #fff;
+	 margin-top:20px;
+	 
+}
