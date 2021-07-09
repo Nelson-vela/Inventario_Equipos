@@ -135,7 +135,7 @@
 </head>
 
 
-<body class="hold-transition skin-blue  sidebar-mini login-page"> <!-- sidebar-collapse -->
+<body class="hold-transition skin-blue sidebar-collapse sidebar-mini login-page"> <!-- sidebar-collapse -->
 
 
 <!--  CONDICION PARA VALIDAR SI EXISTE UNA SESION INICIADA-->
