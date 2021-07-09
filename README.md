@@ -19,4 +19,4 @@ El sistema consta de 9 modulos:
 
 El sistema fue creado con la finalidad de tener un mejor control en los mantenimientos de los equipos de cómputo, saber cuando fue su último mantenimiento, cuales fueron las fallas,
 cuanto fue el costo del mantenimiento .
-Tambien tiene la seccipon de cargos para tener un mejor control a quién se lo esta entregada tal equipo.
+Tambien tiene la sección de cargos para tener un mejor control a quién se lo esta entregada tal equipo.
